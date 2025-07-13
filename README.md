@@ -7,7 +7,7 @@
 
 ✅ Boosts CPU performance automatically
 
-✅ Elevates game priority using 
+✅ Elevates Game  priority  using 
 'renice -15'
 
 ✅ Applies real-time scheduling (SCHED_FIFO) for ultra-low latency
