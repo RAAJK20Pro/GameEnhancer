@@ -1,0 +1,2 @@
+# GameEnhancer
+Auto Game Booster
