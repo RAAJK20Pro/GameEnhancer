@@ -1,14 +1,14 @@
 # GameEnhancer
-===============================
-🎮 GameEnhancer v1.0 by @RAAJK20Pro
+
 📦 Magisk Module – Boost your Android Gaming Performance
-===============================
+
 # 🔥 Features:
 ✅ Automatically detects running games (PUBG, CODM, Genshin, and more)
 
 ✅ Boosts CPU performance automatically
 
-✅ Elevates game priority using 'renice -15'
+✅ Elevates game priority using 
+'renice -15'
 
 ✅ Applies real-time scheduling (SCHED_FIFO) for ultra-low latency
 
