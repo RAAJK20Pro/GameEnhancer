@@ -1,0 +1,8 @@
+id=GameEnhancer
+name=GameEnhancer
+version=1.0
+versionCode=10
+author=@RAAJK20Pro
+description=Boosts Game Performance by auto-detecting running games and applying real-time CPU scheduling (renice + SCHED_FIFO). Resets on exit. Log saved at /sdcard/GameBooster.log. Supports PUBG, CODM, Genshin.
+LATESTARTSERVICE=true
+updateJson=https://raw.githubusercontent.com/RAAJK20Pro/GameEnhancer/main/update.json
