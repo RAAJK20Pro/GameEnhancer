@@ -22,5 +22,5 @@
 
 ### 📲 Compatible with most custom and stock ROMs.
 
-### 🛠️ Recommended for gamers who want smoother FPS and faster touch response without running extra apps or draining battery unnecessarily.
+#### 🛠️ Recommended for gamers who want smoother FPS and faster touch response without running extra apps or draining battery unnecessarily.
 
