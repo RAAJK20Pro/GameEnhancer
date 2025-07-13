@@ -1,6 +1,6 @@
 # GameEnhancer
 
-📦 Magisk Module – Boost your Android Gaming Performance
+📦 Module – Boost your Android Gaming Performance
 
 # 🔥 Features:
 ✅ Automatically detects running games (PUBG, CODM, Genshin, and more)
