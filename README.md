@@ -18,8 +18,8 @@
 
 ✅ Logs game session events to /sdcard/GameEnhancer.log
 
-# 📌 No need to launch manually – starts on boot and works silently.
+### 📌 No need to launch manually – starts on boot and works silently.
 # 📲 Compatible with most custom and stock ROMs.
 
-# 🛠️ Recommended for gamers who want smoother FPS and faster touch response without running extra apps or draining battery unnecessarily.
+### 🛠️ Recommended for gamers who want smoother FPS and faster touch response without running extra apps or draining battery unnecessarily.
 
