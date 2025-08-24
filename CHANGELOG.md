@@ -1,9 +1,16 @@
-# GameEnhancer V1.1
+## GameEnhancer V2.0 ( 2025/08/24 )
 
-**Release Date 15/July/2025**
+Author:- @RAAJK20Pro
 
-✅ Added All Variant Game's
+Support : Snapdragon, Mediatek, Exynos
 
-✅ VM Tweaks While Playing
+Compatibility: All Android Version
 
-🤗 Enjoy your games
+Boost your Android gaming performance during gameplay.
+
+🔥 Features:
+
+☑️ Switching CPU Governor ( Little and Big Cluster) to performance for stability & FPS.
+
+☑️ Restoring Stock CPU Governor automatically when the game closes.
+
