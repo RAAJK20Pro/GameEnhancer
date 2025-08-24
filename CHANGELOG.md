@@ -8,9 +8,10 @@ Compatibility: All Android Version
 
 Boost your Android gaming performance during gameplay.
 
-🔥 Features:
+### 🔥 Features:
 
 ☑️ Switching CPU Governor ( Little and Big Cluster) to performance for stability & FPS.
 
 ☑️ Restoring Stock CPU Governor automatically when the game closes.
+
 
